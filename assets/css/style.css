@@ -1,0 +1,47 @@
+#startGameButton {
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: none;
+    color: #f4511e;
+    font-size: 30px;
+    padding: 20px;
+    margin-top: 20%;
+ 
+}
+ 
+#submitButton {
+    background-color: #f4511e;
+    border-radius: 4px;
+    border: none;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px;
+}
+ 
+.hidden {
+    display: none;
+ 
+}
+ 
+.bold {
+    font-weight: bold;
+
+}
+ 
+#gameWrapper,
+#resultsWrapper {
+    margin: 0 auto;
+    width: 80%;
+    font-size: 20px;
+    margin-top: 50px;
+}
+ 
+body {
+    background-image: url("../images/sunrays.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    height: 100vh;
+    text-align: center;
+}
+
